@@ -1,0 +1,12 @@
+
+dist/
+
+Coffee.exe - Shortcut.lnk
+
+env/
+
+build/
+
+__pycache__/
+
+Coffee.spec
